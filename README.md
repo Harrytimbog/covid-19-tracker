@@ -7,7 +7,7 @@ A React App to track global and country specific COVID-19 spread and updates
 
 ## Demo    
 
-[Run demo](https://clever-goldberg-58d572.netlify.app/)
+[Run demo](https://wolf-covid-tracker.netlify.app/)
 
 ## Run Locally   
 
